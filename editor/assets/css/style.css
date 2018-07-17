@@ -1,0 +1,225 @@
+.input-bar {
+    margin: 0 auto;
+    width: 63%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+}
+
+.update-bar {
+    margin: 0 auto;
+    width: 70%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+}
+
+#wrapper {
+    height: 100vh;
+    background-color: #1F1F1F;
+}
+
+html body {
+    font-family: 'Sunflower', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+}
+
+#bar {
+    background-color: #5b5b5b;
+    color: white;
+    width: 100%;
+    padding: 1px;
+    padding-bottom: 10px;
+}
+
+#bar h3 {
+    padding-left: 20px;
+}
+
+.input-bar button {
+    padding: 5px;
+    border: solid #50EC1F 1px;
+    border-radius: 5px;
+    background-color: #50EC1F;
+}
+
+.update-bar button {
+    padding: 5px;
+    border: solid #9897e8 1px;
+    border-radius: 5px;
+    background-color: #9897e8;
+}
+
+.input-space {
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.update-space {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#space {
+    padding: 3px;
+}
+
+footer {
+    color: white;
+    background-color: #5b5b5b;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+footer p {
+    font-size: 15px;
+    text-align: center;
+    padding: 20px;
+}
+
+.table-content {
+    margin: 0 auto;
+    width: 63%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+}
+
+table {
+    margin: 0 auto;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+}
+
+.table-head {
+    background-color: #6fc1c5;
+    padding: 10px;
+    padding-bottom: 0px;
+    border-radius: 5px 5px 0 0;
+    width: 92%;
+    text-align: center;
+}
+
+td {
+    width: 20%;
+    padding-top 10px;
+}
+
+th {
+    width: 20%;
+}
+
+#edit {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #9897e8;
+    border: solid 1px #9897e8;
+    color: black;
+}
+
+#delete {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #f10e0e;
+    border: solid 1px #f10e0e;
+    color: black;
+}
+
+.field {
+    background-color: white;
+    padding: 5px;
+    width: 20%;
+    text-align: center;
+}
+
+.field-div {
+    background-color: #f2f2f2; 
+    padding-top: 5px;
+}
+
+p {
+    text-align: center;
+}
+
+#licence {
+    padding-left: 15%;
+}
+
+#acquire {
+    padding-left: 40%;
+}
+
+#expire {
+    padding-left: 27%;
+}
+
+#points {
+    padding-left: 35%;
+}
+
+#points_column {
+    width: 15%;
+}
+
+.div-table {
+    background-color: #f2f2f2;
+    width: 1%;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a {
+    color: black;
+}
+
+.update-head {
+    background-color: #6fc1c5;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    border-radius: 5px 5px 0 0;
+    width: 97%;
+    text-align: centre;
+}
+
+#update-fields input{
+    width: 19%;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.update-head #licence {
+    padding-left: 0%;
+}
+
+.update-head #acquire {
+    padding-left: 0%;
+}
+
+.update-head #expire {
+    padding-left: 0%;
+}
+
+.update-head #points {
+    padding-left: 0%;
+    text-align: centre;
+}
+
+#back {
+    float: right;
+    padding: 5px;
+    border: solid #50EC1F 1px;
+    border-radius: 5px;
+    background-color: #50EC1F;
+    color: black;
+}
+
+.back-con {
+    padding-right: 2%;
+}
